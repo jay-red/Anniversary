@@ -1,2 +1,2 @@
-io\mewsub\dupeframe\DupeFrame.class
-io\mewsub\dupeframe\Listeners\PlayerInteractEntity.class
+io\mewsub\anniversary\Anniversary.class
+io\mewsub\anniversary\listeners\PlayerInteractEntity.class

@@ -1,5 +1,5 @@
-name: DupeFrame
-main: io.mewsub.dupeframe.DupeFrame
+name: Anniversary
+main: io.mewsub.anniversary.Anniversary
 version: 1.0
 api-version: 1.16
 commands:

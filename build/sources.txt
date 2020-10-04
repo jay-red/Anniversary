@@ -1,0 +1,2 @@
+io\mewsub\dupeframe\DupeFrame.class
+io\mewsub\dupeframe\Listeners\PlayerInteractEntity.class

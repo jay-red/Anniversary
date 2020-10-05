@@ -1,6 +1,9 @@
 {
-    "parent": "builtin/entity",
-    "display": {
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "display": {
         "thirdperson_righthand": {
             "rotation": [0, 0, 0],
             "translation": [ 0, 1, -2.5 ],
@@ -28,10 +31,10 @@
             "rotation": [0, 0, 0],
             "scale": [4, 4, 4]
         },
-		"ground": {
+        "ground": {
             "rotation": [0, 0, 0],
             "translation": [ 0, 1, 0 ],
-            "scale": [4, 4, 4]
+            "scale": [1, 1, 1]
         }
     }
 }

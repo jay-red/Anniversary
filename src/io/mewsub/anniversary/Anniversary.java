@@ -6,6 +6,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import org.bukkit.Server;
 
+import io.mewsub.anniversary.commands.AnniversaryCommands;
+
 import io.mewsub.anniversary.listeners.PlayerInteractEntity;
 
 public class Anniversary extends JavaPlugin {
@@ -15,9 +17,10 @@ public class Anniversary extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        this.plugin = ( Plugin ) this;
-        this.server = this.getServer();
-        this.server.getPluginManager().registerEvents( new PlayerInteractEntity(), this );
+        Anniversary.plugin = ( Plugin ) this;
+        Anniversary.server = this.getServer();
+        Anniversary.server.getPluginManager().registerEvents( new PlayerInteractEntity(), this );
+        this.getCommand( "anniversary" ).setExecutor( new AnniversaryCommands() );
     }
 
     @Override

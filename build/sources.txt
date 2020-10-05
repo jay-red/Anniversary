@@ -1,2 +1,3 @@
 io\mewsub\anniversary\Anniversary.class
+io\mewsub\anniversary\commands\AnniversaryCommands.class
 io\mewsub\anniversary\listeners\PlayerInteractEntity.class

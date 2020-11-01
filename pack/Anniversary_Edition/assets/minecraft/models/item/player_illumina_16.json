@@ -94,9 +94,9 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-			"rotation": [69, 0, 0],
-			"translation": [-2, -11, 3]
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-10, -8, -48]
 		}
 	}
 }

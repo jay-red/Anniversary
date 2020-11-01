@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/coal"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "item/player_illumina_08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "item/player_illumina_09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 310
+      },
+      "model": "item/player_illumina_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 311
+      },
+      "model": "item/player_illumina_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 312
+      },
+      "model": "item/player_illumina_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 313
+      },
+      "model": "item/player_illumina_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 314
+      },
+      "model": "item/player_illumina_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 315
+      },
+      "model": "item/player_illumina_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 316
+      },
+      "model": "item/player_illumina_16"
+    }
+  ]
+}

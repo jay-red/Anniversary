@@ -419,8 +419,8 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, 0, 0],
-			"translation": [-33.5, 24, -43.5],
-			"scale": [4, 4, 4]
+			"translation": [-20, 12, -29.5],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

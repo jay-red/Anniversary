@@ -96,7 +96,7 @@
 	"display": {
 		"thirdperson_lefthand": {
 			"rotation": [90, 0, 0],
-			"translation": [-10, -8, -48]
+			"translation": [-10, -8, -39]
 		}
 	}
 }

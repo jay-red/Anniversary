@@ -3,9 +3,57 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 3
+        "custom_model_data": 38
       },
-      "model": "item/slime_king_main"
+      "model": "item/slime_king_08"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "item/slime_king_09"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 310
+      },
+      "model": "item/slime_king_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 311
+      },
+      "model": "item/slime_king_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 312
+      },
+      "model": "item/slime_king_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 313
+      },
+      "model": "item/slime_king_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 314
+      },
+      "model": "item/slime_king_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 315
+      },
+      "model": "item/slime_king_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 316
+      },
+      "model": "item/slime_king_16"
     }
   ]
 }

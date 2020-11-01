@@ -39,9 +39,9 @@
 			}
 		},
 		{
-			"from": [-1, -9, 0],
-			"to": [-1, 23, 32],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 8]},
+			"from": [-1, -9, -1],
+			"to": [-1, 23, 31],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 7]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
@@ -419,7 +419,7 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, 0, 0],
-			"translation": [-34.5, 27, -45],
+			"translation": [-33.5, 27, -46],
 			"scale": [4, 4, 4]
 		}
 	},

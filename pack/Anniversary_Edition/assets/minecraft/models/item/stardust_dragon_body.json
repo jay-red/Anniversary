@@ -137,6 +137,12 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-0.5, -3.5, 11]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",

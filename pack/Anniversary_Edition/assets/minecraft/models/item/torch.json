@@ -8,19 +8,19 @@
       "predicate": {
         "custom_model_data": 104191
       },
-      "model": "item/stardust_dragon/dragon_head"
+      "model": "item/stardust_dragon/stardust_dragon_head"
     },
     {
       "predicate": {
         "custom_model_data": 104192
       },
-      "model": "item/stardust_dragon/dragon_body"
+      "model": "item/stardust_dragon/stardust_dragon_body"
     },
     {
       "predicate": {
         "custom_model_data": 104193
       },
-      "model": "item/stardust_dragon/dragon_tail"
+      "model": "item/stardust_dragon/stardust_dragon_tail"
     }
   ]
 }

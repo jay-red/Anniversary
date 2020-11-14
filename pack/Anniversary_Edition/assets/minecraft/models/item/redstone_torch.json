@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/redstone_torch"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 14532
+      },
+      "model": "item/laser"
+    }
+  ]
+}

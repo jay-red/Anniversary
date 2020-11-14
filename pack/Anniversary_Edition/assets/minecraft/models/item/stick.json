@@ -6,12 +6,6 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 14532
-      },
-      "model": "item/laser"
-    },
-    {
-      "predicate": {
         "custom_model_data": 10419
       },
       "model": "item/stardust_dragon/stardust_dragon_staff"

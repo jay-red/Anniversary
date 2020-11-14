@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/torch"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 104191
+      },
+      "model": "item/stardust_dragon/stone_dragon_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104192
+      },
+      "model": "item/stardust_dragon/stone_dragon_body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104193
+      },
+      "model": "item/stardust_dragon/stone_dragon_tail"
+    }
+  ]
+}

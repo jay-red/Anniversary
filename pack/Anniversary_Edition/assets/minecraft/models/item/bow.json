@@ -30,7 +30,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/emerald_staff/emerald_staff"
+            "model": "item/magic/emerald_staff/emerald_staff"
         },
         {
             "predicate": {
@@ -57,7 +57,7 @@
                 "custom_model_data": 1,
                 "pulling": 1
             },
-            "model": "item/emerald_staff/emerald_staff_charge_1"
+            "model": "item/magic/emerald_staff/emerald_staff_charge_1"
         },
         {
             "predicate": {
@@ -65,7 +65,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/emerald_staff/emerald_staff_charge_2"
+            "model": "item/magic/emerald_staff/emerald_staff_charge_2"
         },
         {
             "predicate": {
@@ -73,7 +73,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "item/emerald_staff/emerald_staff_charge_3"
+            "model": "item/magic/emerald_staff/emerald_staff_charge_3"
         }
     ]
 }

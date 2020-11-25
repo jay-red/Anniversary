@@ -1,0 +1,5 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/magic/emerald_staff/emerald_staff_charge_2"
+}

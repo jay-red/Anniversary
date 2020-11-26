@@ -34,6 +34,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/slime_crown"
+        },
+        {
+            "predicate": {
                 "pulling": 1
             },
             "model": "item/bow_pulling_0"
@@ -75,12 +81,6 @@
             },
             "model": "item/magic/emerald_staff/emerald_staff_charge_3"
         },
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "item/slime_crown"
-		},
 		{
 			"predicate": {
 				"custom_model_data": 3,

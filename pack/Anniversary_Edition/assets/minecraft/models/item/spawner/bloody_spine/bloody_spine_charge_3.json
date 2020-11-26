@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:custom/spawner/bloody_spine/bloody_spine_charge_3"
+	}
+}

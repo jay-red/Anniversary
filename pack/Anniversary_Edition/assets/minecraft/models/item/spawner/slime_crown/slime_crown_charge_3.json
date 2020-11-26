@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "minecraft:custom/spawner/slime_crown_charge_3"
+		"layer0": "minecraft:custom/spawner/slime_crown/slime_crown_charge_3"
 	}
 }

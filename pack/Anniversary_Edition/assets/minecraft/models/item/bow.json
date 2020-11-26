@@ -74,6 +74,19 @@
                 "pull": 0.9
             },
             "model": "item/magic/emerald_staff/emerald_staff_charge_3"
-        }
+        },
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/slime_crown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3,
+				"pulling": 1
+			},
+			"model": "item/slime_crown_charge"
+		}
     ]
 }

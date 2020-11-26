@@ -5,11 +5,7 @@
 		"height": 64,
 		"frametime": 1,
 		"frames": [
-			{
-				"index": 0,
-				"time": 0
-			},
-			1, 2, 3, 4
+			0, 1, 2, 3, 0
 		]
 	}
 }

@@ -36,7 +36,7 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/slime_crown"
+            "model": "item/spawner/slime_crown/slime_crown"
         },
         {
             "predicate": {
@@ -86,7 +86,23 @@
 				"custom_model_data": 3,
 				"pulling": 1
 			},
-			"model": "item/slime_crown_charge"
-		}
+			"model": "item/spawner/slime_crown/slime_crown_charge_1"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/spawner/slime_crown/slime_crown_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/spawner/slime_crown/slime_crown_charge_3"
+        },
     ]
 }

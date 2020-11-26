@@ -1,11 +1,15 @@
 {
-	"animation": {
-		"interpolation": true,
-		"width": 16,
-		"height": 64,
-		"frametime": 1,
-		"frames": [
-			0, 1, 2, 3, 0
-		]
-	}
+  "animation": {
+    "interpolate": true,
+    "width": 1,
+    "height": 4,
+    "frametime": 1,
+    "frames": [
+      {
+        "index": 0,
+        "time": 0
+      },
+      0, 1, 2, 3, 0
+    ]
+  }
 }

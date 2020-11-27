@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/magic/aqua_scepter/aqua_scepter_charge_3"
+  }
+}

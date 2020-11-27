@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/magic/wand_of_sparking/wand_of_sparking_charge_1"
+  }
+}

@@ -70,6 +70,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 8005
+            },
+            "model": "item/magic/wand_of_sparking/wand_of_sparking"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8006
+            },
+            "model": "item/magic/aqua_scepter/aqua_scepter"
+        },
+        {
+            "predicate": {
                 "pulling": 1
             },
             "model": "item/bow_pulling_0"
@@ -248,6 +260,52 @@
                 "pull": 0.9
             },
             "model": "item/magic/diamond_staff/diamond_staff_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8005,
+                "pulling": 1
+            },
+            "model": "item/magic/wand_of_sparking/wand_of_sparking_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8005,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/magic/wand_of_sparking/wand_of_sparking_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8005,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/magic/wand_of_sparking/wand_of_sparking_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8006,
+                "pulling": 1
+            },
+            "model": "item/magic/aqua_scepter/aqua_scepter_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8006,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/magic/aqua_scepter/aqua_scepter_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8006,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/magic/aqua_scepter/aqua_scepter_charge_3"
         }
     ]
 }

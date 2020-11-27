@@ -40,6 +40,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/spawner/ink_heart/ink_heart"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 8001
             },
             "model": "item/magic/lapis_staff/lapis_staff"
@@ -127,6 +133,29 @@
                 "pull": 0.9
             },
             "model": "item/spawner/slime_crown/slime_crown_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "pulling": 1
+            },
+            "model": "item/spawner/ink_heart/ink_heart_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/spawner/ink_heart/ink_heart_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/spawner/ink_heart/ink_heart_charge_3"
         },
         {
             "predicate": {

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/magic/lapis_staff/lapis_staff_charge_3"
+  }
+}

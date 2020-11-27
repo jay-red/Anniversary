@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/magic/redstone_staff/redstone_staff"
+  }
+}

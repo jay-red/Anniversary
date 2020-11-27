@@ -42,7 +42,25 @@
             "predicate": {
                 "custom_model_data": 8001
             },
+            "model": "item/magic/lapis_staff/lapis_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8002
+            },
+            "model": "item/magic/redstone_staff/redstone_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8003
+            },
             "model": "item/magic/emerald_staff/emerald_staff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8004
+            },
+            "model": "item/magic/diamond_staff/diamond_staff"
         },
         {
             "predicate": {
@@ -115,7 +133,7 @@
                 "custom_model_data": 8001,
                 "pulling": 1
             },
-            "model": "item/magic/emerald_staff/emerald_staff_charge_1"
+            "model": "item/magic/lapis_staff/lapis_staff_charge_1"
         },
         {
             "predicate": {
@@ -123,7 +141,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "item/magic/emerald_staff/emerald_staff_charge_2"
+            "model": "item/magic/lapis_staff/lapis_staff_charge_2"
         },
         {
             "predicate": {
@@ -131,7 +149,76 @@
                 "pulling": 1,
                 "pull": 0.9
             },
+            "model": "item/magic/lapis_staff/lapis_staff_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8002,
+                "pulling": 1
+            },
+            "model": "item/magic/redstone_staff/redstone_staff_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8002,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/magic/redstone_staff/redstone_staff_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8002,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/magic/redstone_staff/redstone_staff_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8003,
+                "pulling": 1
+            },
+            "model": "item/magic/emerald_staff/emerald_staff_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8003,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/magic/emerald_staff/emerald_staff_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8003,
+                "pulling": 1,
+                "pull": 0.9
+            },
             "model": "item/magic/emerald_staff/emerald_staff_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8004,
+                "pulling": 1
+            },
+            "model": "item/magic/diamond_staff/diamond_staff_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8004,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/magic/diamond_staff/diamond_staff_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8004,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/magic/diamond_staff/diamond_staff_charge_3"
         }
     ]
 }

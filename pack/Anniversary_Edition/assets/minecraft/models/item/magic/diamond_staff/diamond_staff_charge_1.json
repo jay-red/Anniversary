@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/magic/diamond_staff/diamond_staff_charge_1"
+  }
+}

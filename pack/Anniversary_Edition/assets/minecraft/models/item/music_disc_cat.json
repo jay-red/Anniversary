@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/music_disc_cat"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 10419
+			},
+			"model": "item/mount/slimy_saddle"
+		}
+	]
+}

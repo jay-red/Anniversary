@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:custom/spawner/mechanical_worm/mechanical_worm"
+	}
+}

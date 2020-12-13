@@ -452,7 +452,9 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [63, 0, 0]
+			"rotation": [64, 0, 0],
+			"translation": [-8.5, 0.75, 17],
+			"scale": [2.5, 2.5, 2.5]
 		}
 	},
 	"groups": [
@@ -470,5 +472,11 @@
 			"name": "group",
 			"origin": [14, 0, 15],
 			"children": [24, 25, 26]
-		}, 27, 28, 29, 30, 31, 32]
+		},
+		{
+			"name": "group",
+			"origin": [10, 16, 12],
+			"children": [27, 28, 29, 30, 31, 32]
+		}
+	]
 }

@@ -3,9 +3,21 @@
 	"overrides": [
 		{
 			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "item/boss/queen_bee/queen_bee_larva"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 61
 			},
 			"model": "item/boss/queen_bee/queen_bee_vertical"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "item/boss/queen_bee/queen_bee_horizontal"
 		}
 	]
 }

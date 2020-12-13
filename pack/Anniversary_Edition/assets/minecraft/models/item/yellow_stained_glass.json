@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:block/yellow_stained_glass",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "item/boss/queen_bee/queen_bee_vertical"
+		}
+	]
+}

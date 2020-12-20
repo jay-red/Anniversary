@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:custom/magic/soul_bolt/soul_bolt_icon"
+	}
+}

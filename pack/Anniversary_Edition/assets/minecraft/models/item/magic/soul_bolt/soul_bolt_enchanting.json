@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "custom/summoning_circle/summoning_circle_water_bolt",
-		"2": "custom/summoning_circle/water_bolt_book",
-		"particle": "custom/summoning_circle/water_bolt_book"
+		"1": "custom/magic/soul_bolt/summoning_circle_soul_bolt",
+		"2": "custom/magic/soul_bolt/soul_bolt_book",
+		"particle": "custom/magic/soul_bolt/soul_bolt_book"
 	},
 	"elements": [
 		{
@@ -112,11 +112,27 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [7.75, -3.75, -2]
+			"translation": [7.75, -4, -2]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-7.75, -4, -2]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -8, 0],
-			"translation": [12, 0, 0]
+			"rotation": [0, -9, 0],
+			"translation": [13, -1.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [-6.25, 0, 0]
+		},
+		"ground": {
+			"translation": [4.5, -8.25, -0.75]
+		},
+		"gui": {
+			"translation": [4, -4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"translation": [7.75, -4.75, -4.75]
 		}
 	},
 	"groups": [

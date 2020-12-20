@@ -58,6 +58,20 @@
                 "firework": 1
             },
             "model": "item/crossbow_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007
+            },
+            "model": "item/magic/soul_bolt/soul_bolt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchanting"
         }
+
     ]
 }

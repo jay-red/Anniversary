@@ -46,6 +46,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "item/spawner/gelatin_crystal/gelatin_crystal"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 8001
             },
             "model": "item/magic/lapis_staff/lapis_staff"
@@ -168,6 +174,29 @@
                 "pull": 0.9
             },
             "model": "item/spawner/ink_heart/ink_heart_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7,
+                "pulling": 1
+            },
+            "model": "item/spawner/gelatin_crystal/gelatin_crystal_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/spawner/gelatin_crystal/gelatin_crystal_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/spawner/gelatin_crystal/gelatin_crystal_charge_3"
         },
         {
             "predicate": {

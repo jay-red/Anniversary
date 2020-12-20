@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:custom/spawner/gelatin_crystal/gelatin_crystal_charge_3"
+	}
+}

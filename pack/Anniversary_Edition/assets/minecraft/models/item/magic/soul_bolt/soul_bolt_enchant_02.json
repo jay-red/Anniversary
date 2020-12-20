@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "custom/magic/soul_bolt/summoning_circle_soul_bolt",
+		"1": "custom/magic/soul_bolt/soul_bolt_enchant_02",
 		"2": "custom/magic/soul_bolt/soul_bolt_book",
 		"particle": "custom/magic/soul_bolt/soul_bolt_book"
 	},
@@ -112,15 +112,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, -12, 0],
+			"rotation": [35, -40, 0],
 			"translation": [7.75, -4, -2]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, -12, 0],
 			"translation": [-7.75, -4, -2]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -9, 0],
+			"rotation": [20, -20, 10],
 			"translation": [13, -1.5, 0.5]
 		},
 		"firstperson_lefthand": {

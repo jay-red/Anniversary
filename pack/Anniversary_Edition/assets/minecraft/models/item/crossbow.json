@@ -71,6 +71,116 @@
                 "pulling": 1
             },
             "model": "item/magic/soul_bolt/soul_bolt_enchanting"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_00"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.08
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_01"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.16
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_02"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.24
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_03"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.32
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_04"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.4
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_05"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.48
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_06"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.56
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_07"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.64
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_08"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.72
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_09"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.8
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 0.96
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchant_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8007,
+                "charged": 1
+            },
+            "model": "item/magic/soul_bolt/soul_bolt_enchanted"
         }
 
     ]

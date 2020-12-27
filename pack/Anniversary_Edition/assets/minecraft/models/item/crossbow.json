@@ -61,6 +61,42 @@
         },
         {
             "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/ranged/railgun/railgun"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1
+            },
+            "model": "item/ranged/railgun/railgun_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/ranged/railgun/railgun_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/ranged/railgun/railgun_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "charged": 1
+            },
+            "model": "item/ranged/railgun/railgun_charge_3"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 8007
             },
             "model": "item/magic/soul_bolt/soul_bolt"

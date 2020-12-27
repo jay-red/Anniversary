@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:custom/ranged/railgun/railgun"
+	},
+	"display": {
+        "thirdperson_righthand": {
+              "rotation": [ 0, -90, 55 ],
+              "translation": [ 0, 2, -2 ],
+              "scale": [ 1, 1, 1 ]
+          },
+          "thirdperson_lefthand": {
+              "rotation": [ 0, 90, -55 ],
+              "translation": [ 0, 2, -2 ],
+              "scale": [ 1, 1, 1 ]
+          }
+    }
+}

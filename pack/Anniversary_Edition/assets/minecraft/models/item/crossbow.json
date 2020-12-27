@@ -181,7 +181,26 @@
                 "charged": 1
             },
             "model": "item/magic/soul_bolt/soul_bolt_enchanted"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10419
+            },
+            "model": "item/ranged/snowball_cannon/snowball_cannon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10419,
+                "pulling": 1
+            },
+            "model": "item/ranged/snowball_cannon/snowball_cannon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10419,
+                "charged": 1
+            },
+            "model": "item/ranged/snowball_cannon/snowball_cannon"
         }
-
     ]
 }

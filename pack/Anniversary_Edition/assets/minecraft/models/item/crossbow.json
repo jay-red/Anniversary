@@ -200,7 +200,7 @@
                 "custom_model_data": 10419,
                 "charged": 1
             },
-            "model": "item/ranged/snowball_cannon/snowball_cannon"
+            "model": "item/ranged/snowball_cannon/snowball_cannon_charged"
         }
     ]
 }

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/pink_stained_glass",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 712
+      },
+      "model": "item/boss/slime_queen/slime_queen_12"
+    }
+  ]
+}

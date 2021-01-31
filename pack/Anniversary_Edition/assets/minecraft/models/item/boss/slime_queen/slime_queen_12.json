@@ -271,8 +271,8 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, 0, 0],
-			"translation": [-34, 26, -45.5],
-			"scale": [4, 4, 4]
+			"translation": [-27, 19, -37.5],
+			"scale": [3, 3, 3]
 		}
 	},
 	"groups": [

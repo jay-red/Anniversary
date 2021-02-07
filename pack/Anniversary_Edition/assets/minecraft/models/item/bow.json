@@ -382,7 +382,7 @@
                 "custom_model_data": 8008,
                 "pulling": 1
             },
-            "model": "item/magic/rainbow_rod/rainbow_rod_charge"
+            "model": "item/magic/rainbow_rod/rainbow_rod_charge_1"
         },
         {
             "predicate": {
@@ -390,6 +390,14 @@
                 "pulling": 1
             },
             "model": "item/magic/shadowbeam_staff/shadowbeam_staff_charge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8008,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/magic/rainbow_rod/rainbow_rod_charge_2"
         }
     ]
 }

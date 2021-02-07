@@ -88,6 +88,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 8008
+            },
+            "model": "item/magic/rainbow_rod/rainbow_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8009
+            },
+            "model": "item/magic/shadowbeam_staff/shadowbeam_staff"
+        },
+        {
+            "predicate": {
                 "pulling": 1
             },
             "model": "item/bow_pulling_0"
@@ -335,6 +347,20 @@
                 "pull": 0.9
             },
             "model": "item/magic/aqua_scepter/aqua_scepter_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8008,
+                "pulling": 1
+            },
+            "model": "item/magic/rainbow_rod/rainbow_rod_charge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8009,
+                "pulling": 1
+            },
+            "model": "item/magic/shadowbeam_staff/shadowbeam_staff_charge"
         }
     ]
 }

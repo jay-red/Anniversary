@@ -220,6 +220,26 @@
         },
         {
             "predicate": {
+                "custom_model_data": 9001
+            },
+            "model": "item/ranged/havocs_breath/havocs_breath"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9001,
+                "pulling": 1
+            },
+            "model": "item/ranged/havocs_breath/havocs_breath_charge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9001,
+                "charged": 1
+            },
+            "model": "item/ranged/havocs_breath/havocs_breath_charge"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 10419
             },
             "model": "item/ranged/snowball_cannon/snowball_cannon"

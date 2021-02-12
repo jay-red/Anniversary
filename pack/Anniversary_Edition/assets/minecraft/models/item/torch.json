@@ -6,6 +6,12 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 84
+      },
+      "model": "item/vanity/cat_ears"
+    },
+    {
+      "predicate": {
         "custom_model_data": 104191
       },
       "model": "item/stardust_dragon/stardust_dragon_head"

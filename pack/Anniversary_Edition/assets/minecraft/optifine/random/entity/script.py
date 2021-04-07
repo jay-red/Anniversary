@@ -25,7 +25,7 @@ def parse_specular( file_path ):
         for x in range( albedo_width ):
             px = albedo_data[ y * albedo_width + x ]
             if px[ 3 ] > 0:
-                specular_data.append( ( 239, 255, 0, 255 ) )
+                specular_data.append( ( 192, 255, 0, 255 ) )
             else:
                 specular_data.append( ( 0, 0, 0, 0 ) )
     
@@ -46,4 +46,4 @@ def parse_specular( file_path ):
     specular.putdata( specular_data );
     specular.save( file_path + "_s.png" )
 
-parse_specular( "guardian2" )
+parse_specular( "guardian_elder" )

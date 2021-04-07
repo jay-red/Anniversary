@@ -3,6 +3,7 @@
 import os
 import sys
 from PIL import Image, ImageColor
+from shutil import copyfile
 
 def join_path( r, *p_list ):
     s = r
@@ -31,4 +32,13 @@ def parse_specular( rp_path, name ):
     specular.putdata( specular_data );
     specular.save( name + "_s.png" )
 
-parse_specular( ".", "guardian_elder2" )
+def parse_rp( base_path ):
+    rp_path = join_path( base_path )
+    smoothness_dict = {}
+    for root, dirs, files in os.walk( rp_path, topdown=False ):
+        for name in files:
+            full_path = join_path( root, name )
+            if name.find( "_emissive.png.mcmeta" ) != -1 and name[ -20 :  ] == "_emissive.png.mcmeta": 
+                copyfile( full_path, full_path[ : -20 ] + "_s.png.mcmeta" )
+
+parse_rp( "." )

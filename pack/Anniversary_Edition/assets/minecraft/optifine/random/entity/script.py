@@ -24,11 +24,11 @@ def parse_specular( rp_path, name ):
         for x in range( emissive_width ):
             px = emissive_data[ y * emissive_width + x ]
             if px[ 3 ] > 0:
-                specular_data.append( ( 255, 0, 0, 254 ) )
+                specular_data.append( ( 0, 0, 255, 255 ) )
             else:
                 specular_data.append( ( 0, 0, 0, 0 ) )
     specular = Image.new("RGBA", ( emissive_width, emissive_height ), ( 0, 0, 0, 0 ) )
     specular.putdata( specular_data );
     specular.save( name + "_s.png" )
 
-parse_specular( ".", "guardian2" )
+parse_specular( ".", "guardian_elder2" )

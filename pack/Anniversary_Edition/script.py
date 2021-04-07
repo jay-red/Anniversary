@@ -12,8 +12,8 @@ def join_path( r, *p_list ):
     return s
         
 
-def parse_specular( rp_path, name ):
-    emissive_path = name + "_emissive.png"
+def parse_specular( file_path ):
+    emissive_path = file_path + "_emissive.png"
     emissive = Image.open( emissive_path ).convert( "RGBA" )
     emissive_data = list( emissive.getdata() )
     emissive_height = emissive.height
@@ -30,7 +30,7 @@ def parse_specular( rp_path, name ):
                 specular_data.append( ( 0, 0, 0, 0 ) )
     specular = Image.new("RGBA", ( emissive_width, emissive_height ), ( 0, 0, 0, 0 ) )
     specular.putdata( specular_data );
-    specular.save( name + "_s.png" )
+    specular.save( file_path + "_s.png" )
 
 def parse_rp( base_path ):
     rp_path = join_path( base_path )
@@ -40,5 +40,7 @@ def parse_rp( base_path ):
             full_path = join_path( root, name )
             if name.find( "_emissive.png.mcmeta" ) != -1 and name[ -20 :  ] == "_emissive.png.mcmeta": 
                 copyfile( full_path, full_path[ : -20 ] + "_s.png.mcmeta" )
+            elif name.find( "_emissive.png" ) != -1 and name[ -13 : ] == "_emissive.png":
+                parse_specular( full_path[ : -13 ] )
 
 parse_rp( "." )

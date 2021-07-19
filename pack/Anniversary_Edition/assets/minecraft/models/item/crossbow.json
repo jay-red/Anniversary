@@ -63,6 +63,51 @@
             "predicate": {
                 "custom_model_data": 3
             },
+            "model": "item/grappling_hook/grappling_hook"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 0.25
+            },
+            "model": "item/grappling_hook/grappling_hook_charge_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 0.50
+            },
+            "model": "item/grappling_hook/grappling_hook_charge_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 0.75
+            },
+            "model": "item/grappling_hook/grappling_hook_charge_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/grappling_hook/grappling_hook_charge_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "charged": 1
+            },
+            "model": "item/grappling_hook/grappling_hook_charged"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
             "model": "item/ranged/railgun/railgun"
         },
         {

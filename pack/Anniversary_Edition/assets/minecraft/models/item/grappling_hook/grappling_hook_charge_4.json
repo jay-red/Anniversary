@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/grappling_hook/grappling_hook_charge_4"
+  },
+  "display": {
+        "thirdperson_righthand": {
+              "rotation": [ 0, -90, 55 ],
+              "translation": [ 0, 4, -4 ],
+              "scale": [ 1, 1, 1 ]
+          },
+          "thirdperson_lefthand": {
+              "rotation": [ 0, 90, -55 ],
+              "translation": [ 0, 4, -4 ],
+              "scale": [ 1, 1, 1 ]
+          },
+          "firstperson_righthand": {
+             "rotation": [ 0, -90, 25 ],
+             "translation": [ 1.13, 2.2, 1.13 ],
+             "scale": [ 0.68, 0.68, 0.68 ]
+         },
+         "firstperson_lefthand": {
+             "rotation": [ 0, 90, -25 ],
+             "translation": [ 1.13, 2.2, 1.13 ],
+             "scale": [ 0.68, 0.68, 0.68 ]
+         }
+    }
+}
